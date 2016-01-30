@@ -1,3 +1,3 @@
 # Classoth
 
-Juste test and nothing else
+Just test and nothing else
